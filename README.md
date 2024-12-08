@@ -121,5 +121,5 @@ daftar_nilai.tampilkan()
 ```
 
 #### - hasil
-![foto]
+![foto](https://github.com/azkaa-pixel/pratikum-8/blob/77a74133fed49c6f8642180229ddabc506feb1af/hasil%208.jpeg)
 
