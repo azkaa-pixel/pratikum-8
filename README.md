@@ -10,7 +10,7 @@ NIM : 312410521
 ## praktikum 8
 
 ### - flowchart
-![foto]()
+![foto](https://github.com/azkaa-pixel/pratikum-8/blob/5c2ef9f9122d784f8cd925bcc0f848ff67410529/praktikum%208.png)
 ### - code program
 
 #### 1. Konstruktor ```__init__```
